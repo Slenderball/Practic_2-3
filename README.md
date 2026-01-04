@@ -1,7 +1,3 @@
-Практична робота 2 та 3
-Практична робота 2
-
-https://github.com/Slenderball/skills-publish-packages
 # Звіт:  Практична робота 2 та 3
 ## 1. Практична робота 2
 ### 1. GitHub Skills
